@@ -1,4 +1,4 @@
-homoeopathy
+Homoeopathy
 ===========
 
 Homoeopathy
